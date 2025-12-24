@@ -6,7 +6,7 @@
 
 **Checkpass** is a modern, user-friendly desktop application built with Python that helps you manage your password security. It features a robust password strength analyzer and a cryptographically secure password generator.
 
-(screenshot.png)
+![checkpass](screenshot.png)
 
 ## ✨ Features
 
