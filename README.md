@@ -6,7 +6,7 @@
 
 **Checkpass** is a modern, user-friendly desktop application built with Python that helps you manage your password security. It features a robust password strength analyzer and a cryptographically secure password generator.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Insert+Your+App+Screenshot+Here)
+(screenshot.png)
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ To run this application locally, you need Python installed on your machine.
 
 3.  **Run the application**
     ```bash
-    python pass.py
+    python3 pass.py
     ```
 
 ## 🛠️ Technologies Used
